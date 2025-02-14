@@ -1,4 +1,4 @@
-package guviproject;
+package Task4;
 
 import java.util.Scanner;
 
